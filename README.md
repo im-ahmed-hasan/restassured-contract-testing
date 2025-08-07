@@ -11,7 +11,7 @@ This project demonstrates modern API testing techniques using REST Assured, JSON
 
 ## 📦 Tech Stack
 
-- Java 17
+- Java 22
 - REST Assured 5.4.0
 - JSON Schema Validator
 - JUnit 5
