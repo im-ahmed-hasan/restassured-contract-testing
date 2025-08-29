@@ -20,8 +20,11 @@ This project demonstrates modern API testing techniques using REST Assured, JSON
 ## 🧪 How to Run
 
 1. Clone this repo  
-2. Replace your GoREST token in the test file  
-3. Run the test via IntelliJ or Maven:
+2. Replace your GoREST token in the test file
+3. Go to https://gorest.co.in/my-account/access-tokens
+4. Generate a new token.
+5. Copy it and paste it in the test file where the token variable is set.  
+6. Run the test via IntelliJ or Maven:
 
 ```bash
 git clone https://github.com/im-ahmed-hasan/restassured-contract-testing
